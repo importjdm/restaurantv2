@@ -1,0 +1,11 @@
+.home-image {
+  background-image: url("/src/img/chewy.jpeg");
+}
+
+.about-header {
+  color: red;
+}
+
+.menu-header {
+  color: blue;
+}
